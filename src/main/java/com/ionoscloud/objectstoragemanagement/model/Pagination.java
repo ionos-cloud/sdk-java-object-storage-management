@@ -29,7 +29,7 @@ import java.io.IOException;
  * Pagination information. The offset and limit parameters are used to navigate the list of elements. The _links object contains URLs to navigate the different pages. 
  */
 @ApiModel(description = "Pagination information. The offset and limit parameters are used to navigate the list of elements. The _links object contains URLs to navigate the different pages. ")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-25T14:47:08.560494Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T10:43:43.862421Z[Etc/UTC]")
 
 public class Pagination {
   

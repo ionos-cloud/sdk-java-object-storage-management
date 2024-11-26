@@ -31,7 +31,7 @@ import java.util.List;
  * IONOS Cloud object storage regions they define the location of the bucket, can also be used as &#x60;LocationConstraint&#x60; for bucket creation. 
  */
 @ApiModel(description = "IONOS Cloud object storage regions they define the location of the bucket, can also be used as `LocationConstraint` for bucket creation. ")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-25T14:47:08.560494Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T10:43:43.862421Z[Etc/UTC]")
 
 public class Region {
   
