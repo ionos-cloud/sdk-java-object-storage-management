@@ -27,7 +27,7 @@ import java.io.IOException;
 /**
  * ErrorMessages
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T11:50:15.750085Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T11:53:54.572423Z[Etc/UTC]")
 
 public class ErrorMessages {
   
