@@ -29,7 +29,7 @@ import org.threeten.bp.OffsetDateTime;
  * Metadata of the resource.
  */
 @ApiModel(description = "Metadata of the resource.")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T16:21:51.129555Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T16:27:52.335721Z[Etc/UTC]")
 
 public class Metadata {
   

@@ -28,7 +28,7 @@ import java.io.IOException;
  * Buckets visible to the user. 
  */
 @ApiModel(description = "Buckets visible to the user. ")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T16:21:51.129555Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T16:27:52.335721Z[Etc/UTC]")
 
 public class Bucket {
   
