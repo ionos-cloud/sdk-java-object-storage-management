@@ -31,7 +31,7 @@ import java.util.List;
  * The Error object is used to represent an error response from the API. 
  */
 @ApiModel(description = "The Error object is used to represent an error response from the API. ")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T11:53:54.572423Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T16:06:24.400363Z[Etc/UTC]")
 
 public class Error {
   

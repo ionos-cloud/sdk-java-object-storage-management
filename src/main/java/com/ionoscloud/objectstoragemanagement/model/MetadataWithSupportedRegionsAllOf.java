@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * MetadataWithSupportedRegionsAllOf
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T11:53:54.572423Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T16:06:24.400363Z[Etc/UTC]")
 
 public class MetadataWithSupportedRegionsAllOf {
   
