@@ -13,7 +13,7 @@
 
 package com.ionoscloud.objectstoragemanagement;
 
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T16:06:24.400363Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T16:21:51.129555Z[Etc/UTC]")
 public class Configuration {
     public static final String IONOS_USERNAME_ENV_VAR = "IONOS_USERNAME";
     public static final String IONOS_PASSWORD_ENV_VAR = "IONOS_PASSWORD";
