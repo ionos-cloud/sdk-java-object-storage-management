@@ -28,7 +28,7 @@ import java.io.IOException;
  * Details the cross functional aspects of the given storage class. 
  */
 @ApiModel(description = "Details the cross functional aspects of the given storage class. ")
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T10:43:43.862421Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-26T11:50:15.750085Z[Etc/UTC]")
 
 public class StorageClass {
   
